@@ -14,5 +14,5 @@ https://github.com/Su-Ng/Su-Ng.github.io/
 And soon you'll see my customised homepage at:
 http://Su-Ng.github.io
 
-<img source="images/oprah-winfre-largeicon.png" width=100>
+<img source="images/oprah-winfre-largeicon.png" width="100">
 ![](images/oprah-winfre-largeicon.png)
