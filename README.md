@@ -15,4 +15,4 @@ And soon you'll see my customised homepage at:
 http://Su-Ng.github.io
 
 
-![](alexaskill1.png)
+![](images/alexaskill1.png)
