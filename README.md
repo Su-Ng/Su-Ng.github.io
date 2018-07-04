@@ -13,3 +13,5 @@ https://github.com/Su-Ng/Su-Ng.github.io/
 
 And soon you'll see my customised homepage at:
 http://Su-Ng.github.io
+
+![](images/oprah-winfrey-largeicon.png)
