@@ -15,4 +15,4 @@ And soon you'll see my customised homepage at:
 http://Su-Ng.github.io
 
 
-![](images/oprah-winfre-smallicon.png)
+![](alexaskill1.png)
