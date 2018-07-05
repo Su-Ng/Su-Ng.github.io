@@ -23,8 +23,9 @@ The purpose of this work is to showcase some state of the art computer vision ap
 Demo
 Detect Text 
 
-![](images/northumberlandrd500.png)   Detected Text
-                                      Northumberland Rd : 92.31%
-                                      Northumberland    : 9.86%
-                                      Rd                : 88.76%
+![](images/northumberlandrd500.png)   
+Detected Text
+Northumberland Rd : 92.31%
+Northumberland    : 9.86%
+Rd                : 88.76%
   
