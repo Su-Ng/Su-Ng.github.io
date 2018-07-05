@@ -17,3 +17,10 @@ http://Su-Ng.github.io
 This is my Alexa skills which is published at the Amazon App Store
 
 ![](images/alexaskill1.png)
+
+The purpose of this work is to showcase some state of the art computer vision application using Amazon Rekognition.
+
+Demo
+Detect Text 
+
+
