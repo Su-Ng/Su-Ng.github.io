@@ -37,3 +37,13 @@ Rd                : 88.76%
 ### Detect Celebrities
 
 ![](images/celebgroup500.png)
+
+Detected Celebrities
+
+Bradley Cooper    : 100%
+
+Jennifer Lawrence : 60%
+
+Ellen DeGeneres   : 100%
+
+Wayne Wonder      : 90.0%
