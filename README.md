@@ -36,4 +36,4 @@ Rd                : 88.76%
 
 ### Detect Celebrities
 
-![](images/celebgroup500.png
+![](images/celebgroup500.png)
