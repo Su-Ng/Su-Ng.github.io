@@ -21,7 +21,7 @@ This is my Alexa skills which is published at the Amazon App Store
 The purpose of this work is to showcase some state of the art computer vision application using Amazon Rekognition.
 
 Demo
-Detect Text 
+### Detect Text 
 
 ![](images/northumberlandrd500.png)   
 
@@ -33,3 +33,7 @@ Northumberland    : 9.86%
 
 Rd                : 88.76%
   
+
+### Detect Celebrities
+
+![](images/celebgroup00.png
