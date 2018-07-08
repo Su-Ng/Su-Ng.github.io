@@ -41,7 +41,7 @@ Female
 
 Smile
 
-![](images/beardedglasses10.jpg)
+![](images/beardedglasses150.jpg)
 
 Male
 
