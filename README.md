@@ -33,6 +33,23 @@ Northumberland    : 9.86%
 
 Rd                : 88.76%  
   
+### Detect Face
+
+![](images/expressionHappy.jpg)
+
+Female
+
+Smile
+
+![](images/beardedglasses10.jpg)
+
+Male
+
+Glasses
+
+Smile
+
+Beard
 
 ### Detect Celebrities
 
