@@ -35,7 +35,7 @@ Rd                : 88.76%
 
 ### Detect Objects from the Scene
 
-![](images/scene.jpg)
+![](images/scene180.jpg)
 
 
 
