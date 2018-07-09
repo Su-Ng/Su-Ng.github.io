@@ -37,7 +37,17 @@ Rd                : 88.76%
 
 ![](images/scene180.jpg)
 
+Human           : 99.2%
 
+People          : 99.2%
+
+Person          : 99.27%
+
+Skateboard      : 98.24%
+
+Sport           : 98.24%
+
+Sports          : 98.24%
 
   
 ### Detect Face
