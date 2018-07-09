@@ -32,6 +32,13 @@ Northumberland Rd : 92.31%
 Northumberland    : 9.86%
 
 Rd                : 88.76%  
+
+### Detect Objects from the Scene
+
+![](images/scene.jpg)
+
+
+
   
 ### Detect Face
 
