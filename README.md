@@ -66,4 +66,8 @@ Ellen DeGeneres   : 100%
 Wayne Wonder      : 90.0%
 
 
+### Voice Enabled Application
+
+![](images/alexaskill1.png
+
 https://alexa.amazon.com/spa/index.html#skills/dp/B07DWBDCWK/?ref=skill_dsk_skb_sr_1&qid=1531388370
