@@ -1,18 +1,6 @@
 # Su-Ng.github.io
 =================
 
-
-My Github user page is at:
-https://github.com/Su-Ng/
-
-My Github Pages rep can be found at:
-https://github.com/Su-Ng/Su-Ng.github.io/
-
-
-And soon you'll see my customised homepage at:
-http://Su-Ng.github.io
-
-
 The purpose of this work is to showcase some state of the art computer vision application using Amazon Rekognition.
 
 Demo
