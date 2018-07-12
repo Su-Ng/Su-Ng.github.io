@@ -1,7 +1,7 @@
 # Su-Ng.github.io
 =================
 
-The purpose of this work is to showcase some state of the art computer vision application using Amazon Rekognition.
+The purpose of this portfolio is to showcase some cloud technology I have learnt, including state of the art computer vision applications using Amazon Rekognition and Alexa Skill I have published in Amazon.
 
 Demo
 ### Detect Text 
@@ -64,3 +64,6 @@ Jennifer Lawrence : 60%
 Ellen DeGeneres   : 100%
 
 Wayne Wonder      : 90.0%
+
+
+https://alexa.amazon.com/spa/index.html#skills/dp/B07DWBDCWK/?ref=skill_dsk_skb_sr_1&qid=1531388370
