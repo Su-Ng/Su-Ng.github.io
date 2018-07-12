@@ -3,7 +3,7 @@
 
 The purpose of this portfolio is to showcase some cloud technology I have learnt, including state of the art computer vision applications using Amazon Rekognition and Alexa Skill I have published in Amazon.
 
-#### Demo
+## Demo
 ### Detect Text 
 
 ![](images/northumberlandrd500.png)   
