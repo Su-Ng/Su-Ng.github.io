@@ -76,6 +76,8 @@ https://alexa.amazon.com/spa/index.html#skills/dp/B07DWBDCWK/?ref=skill_dsk_skb_
 
 ### Chatbot
 
+I have created a chatbot using Amazon Lex, showing an example of how a Flower Shop can handle customers' orders. 
+
 ![](images/Chatbot1.png)
 
 ![](images/Chatbot2.png)
