@@ -78,3 +78,8 @@ https://alexa.amazon.com/spa/index.html#skills/dp/B07DWBDCWK/?ref=skill_dsk_skb_
 
 ![](images/Chatbot1.png)
 
+![](images/Chatbot2.png)
+
+![](images/Chatbot3.png)
+
+![](images/Chatbot4.png)
